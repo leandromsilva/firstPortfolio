@@ -57,11 +57,15 @@ p, h3 {
     margin-bottom: 0.5rem;
 }
 
+.btn-outline-light {
+    border-color: white;
+}
+
 #about-me {
     height: 100vh;
 }
 
-#knowledge-div {
+.section-blocks {
     display: flex;
     height: auto;
     flex-wrap: wrap;
@@ -85,7 +89,6 @@ p, h3 {
 .knowledge-block p{
     text-align: center;
 }
-
 
 .knowledge-images {
     width: 200px;
